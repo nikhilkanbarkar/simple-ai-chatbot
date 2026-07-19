@@ -27,3 +27,4 @@ while True:
     reply = get_ai_response(user_input)
 
     print(f"\nAI  : {reply}")
+    print("="*60)
