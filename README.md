@@ -229,4 +229,4 @@ so there is no license you are free to learn from th project.
 ## ⭐ If you found this project useful
 
 Consider giving this repository a ⭐ on GitHub.
-And if you have any doubt you are free to ask , i have provided my linkedin account
+And if you have any doubt you are free to ask , i have provided my linkedin account.
