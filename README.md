@@ -197,6 +197,31 @@ python-dotenv
 ```
 
 ---
+---
+
+## 🖥️ Chat Interface
+
+To provide a modern and interactive user experience, the chatbot can be integrated with a **Streamlit** web interface.
+
+### Interface Technology
+
+* **Streamlit** – A Python library used to build interactive web applications for Machine Learning and AI projects without requiring HTML, CSS, or JavaScript.
+* **st.chat_input()** – Creates a chat input box for user messages.
+* **st.chat_message()** – Displays user and AI messages in a clean chat bubble format.
+* **st.session_state** – Maintains conversation history during the session.
+* **st.button()** – Adds interactive buttons such as **Clear Chat**.
+
+### Why Streamlit?
+
+* Simple and fast to develop.
+* No frontend knowledge required.
+* Ideal for AI and Machine Learning applications.
+* Provides a modern, responsive chat interface.
+* Easy to deploy and share online.
+
+> **Note:** The chatbot logic remains independent of the interface, allowing the same backend to be used with a terminal application, Streamlit, Flask, or any other frontend in the future.
+
+
 
 ## 🔮 Future Improvements
 
