@@ -210,23 +210,45 @@ python-dotenv
 
 ---
 
+---
+
 ## 👨‍💻 Author
 
 **Nikhil Kanbarkar**
 
-GitHub: https://github.com/nikhilkanbarkar
+* **GitHub:** https://github.com/nikhilkanbarkar
+* **LinkedIn:** https://www.linkedin.com/in/nikhil-kanbarkar
 
-LinkedIn: www.linkedin.com/in/nikhil-kanbarkar
+Feel free to connect with me for discussions on Artificial Intelligence, Machine Learning, Data Science, or Python development.
+
 ---
 
 ## 📄 License
 
-This project is developed for educational and internship purposes.
-so there is no license you are free to learn from th project. 
+This project is created for **educational and internship purposes**.
+
+No official open-source license has been applied to this repository yet. You are welcome to explore the code, learn from it, and use it for personal learning. If you plan to reuse significant portions of this project publicly or commercially, please contact the author first.
 
 ---
 
-## ⭐ If you found this project useful
+## 🤝 Contributing
 
-Consider giving this repository a ⭐ on GitHub.
-And if you have any doubt you are free to ask , i have provided my linkedin account.
+Contributions, suggestions, and improvements are always welcome.
+
+If you have ideas to improve this project, feel free to:
+
+* Fork the repository
+* Create a new branch
+* Submit a Pull Request
+
+---
+
+## ⭐ Support
+
+If you found this project helpful:
+
+* ⭐ Star this repository
+* 🍴 Fork it for your own learning
+* 💬 Share your feedback or suggestions
+
+If you have any questions or would like to discuss AI, Machine Learning, or Python development, feel free to connect with me on LinkedIn. I'm always happy to learn, collaborate, and help where I can.
